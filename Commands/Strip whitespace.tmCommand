@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>outputLocation</key>
+		<string>replaceDocument</string>
+		<key>semanticClass</key>
+		<string>callback.document.will-save</string>
+	</dict>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>7F841C6A-FB9E-435F-B5F5-B662FD875AF4</string>
+</dict>
+</plist>
